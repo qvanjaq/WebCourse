@@ -1,5 +1,5 @@
 <?php
-	echo 'Hellow Worlds';	
+	echo 'Hellow PERL';	
 	$i = 3;
 	echo $i;
 ?>
