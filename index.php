@@ -1,5 +1,4 @@
 <?php
 	echo 'Hellow Worlds';	
-	$i = 3;
-	echo $i;
+	$i = 120;
 ?>
